@@ -1,0 +1,27 @@
+{
+  "name": "ethers-contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/buidler": "^1.4.1",
+    "@nomiclabs/buidler-ethers": "^2.0.0",
+    "@nomiclabs/buidler-waffle": "^2.0.0",
+    "chai": "^4.2.0",
+    "ethereum-waffle": "^3.0.2",
+    "ethers": "^5.0.7",
+    "sass": "^1.26.10"
+  },
+  "browserslist": [
+      "> 5%"
+  ],
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.1.0"
+  }
+}
